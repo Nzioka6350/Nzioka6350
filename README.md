@@ -7,8 +7,11 @@
 - 📫 How to reach me 
 
 https://www.instagram.com/its_nzioka_/
+<br>
 https://www.facebook.com/jaymociocha.rorrim
+<br>
 https://twitter.com/_itsNzioka
+<br>
 https://www.linkedin.com/in/james-mutua-43b529267/
 - 🌱 I’m a Computer science Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
