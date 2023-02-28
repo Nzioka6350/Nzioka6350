@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@_itsnzioka" target="blank"><img src="https://img.shields.io/twitter/follow/@_itsnzioka?logo=twitter&style=for-the-badge" alt="@_itsnzioka" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **any Java Project**
 
-- 💬 Ask me about **SpringBoot**
+- 💬 Ask me about **SpringBoot,Java,Web programming,sql databases**
 
 - 📫 How to reach me **jamesnziokamutua1@gmail.com**
 
