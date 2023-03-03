@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzioka6350&label=Profile%20views&color=0e75b6&style=flat" alt="nzioka6350" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzioka6350" alt="nzioka6350" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <a href="https://twitter.com/@_itsnzioka" target="blank"><img src="https://img.shields.io/twitter/follow/@_itsnzioka?logo=twitter&style=for-the-badge" alt="@_itsnzioka" /></a> </p>
 
