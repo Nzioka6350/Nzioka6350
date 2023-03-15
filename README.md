@@ -35,10 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nzioka6350&" alt="Nzioka6350" /></p>
 ](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meshack-ai&show_icons=true&locale=en&layout=compact" alt="meshack-ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meshack-ai&show_icons=true&locale=en" alt="meshack-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-ai&" alt="meshack-ai" /></p>
-](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
 
