@@ -31,8 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nzioka6350&show_icons=true&locale=en&layout=compact" alt="Nzioka6350" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nzioka6350&show_icons=true&locale=en" alt="Nzioka6350" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nzioka6350&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Nzioka6350)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nzioka6350&" alt="Nzioka6350" /></p>
 ](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
 
