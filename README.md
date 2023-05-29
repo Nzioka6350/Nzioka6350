@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Nzioka</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">A Computer Scientist from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzioka6350&label=Profile%20views&color=0e75b6&style=flat" alt="nzioka6350" /> </p>
 
@@ -43,3 +43,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://github.com/Nzioka6350"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nzioka6350&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzioka6350&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
