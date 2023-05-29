@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@_itsnzioka" target="blank"><img src="https://img.shields.io/twitter/follow/@_itsnzioka?logo=twitter&style=for-the-badge" alt="@_itsnzioka" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic webApplications**
+- 🔭 I’m currently working on **Intergration Of Whatsapp APIs**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Dynamic Web-Development**
 
-- 👯 I’m looking to collaborate on **any Java Project**
+- 👯 I’m looking to collaborate on **any Web-Based systems**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **jamesnziokamutua1@gmail.com**
 
