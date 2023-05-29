@@ -33,3 +33,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nzioka6350&show_icons=true&locale=en" alt="Nzioka6350" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nzioka6350&" alt="Nzioka6350" /></p>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nzioka6350&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Nzioka6350&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
