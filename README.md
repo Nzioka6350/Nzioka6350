@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_itsnzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itsnzioka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jamesnzioka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamesnzioka/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jamesnzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesnzioka" height="30" width="40" /></a>
 <a href="https://fb.com/jaymociocha.rorrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaymociocha.rorrim" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/its_nzioka_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_nzioka_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@its_nzioka_/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@its_nzioka_/featured" height="30" width="40" /></a>
+<a href="https://instagram.com/its_nzioka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_nzioka_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@its_nzioka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@its_nzioka_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
