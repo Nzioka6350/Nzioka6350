@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/_itsnzioka" target="blank"><img src="https://img.shields.io/twitter/follow/_itsnzioka?logo=twitter&style=for-the-badge" alt="_itsnzioka" /></a> </p>
 
-- 🔭 I’m currently working on **Whatsapp API intergration**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web-Based Projects**
 
-- 👯 I’m looking to collaborate on **Laravel,React & Angular**
+- 👯 I’m looking to collaborate on **Laravel,React**
 
-- 🤝 I’m looking for help with **Laravel,React & Angular**
+- 🤝 I’m looking for help with **Laravel,React,Python,C**
 
-- 💬 Ask me about **Laravel,React & Angular**
+- 💬 Ask me about **Laravel,React**
 
 - 📫 How to reach me **jamesnziokamutua1@gmail.com**
 
