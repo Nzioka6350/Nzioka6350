@@ -27,8 +27,8 @@
 <p align="left">
 <a href="https://dev.to/james-nzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="james-nzioka" height="30" width="40" /></a>
 <a href="https://twitter.com/_itsnzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itsnzioka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jamesnzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesnzioka" height="30" width="40" /></a>
-<a href="https://fb.com/jamesnziokake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jamesnziokake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jamesnzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamesnzioka" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/jamesnziokake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/jamesnziokake" height="30" width="40" /></a>
 <a href="https://instagram.com/its_nzioka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_nzioka_" height="30" width="40" /></a>
 <a href="https://discord.gg/its_nzioka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_nzioka" height="30" width="40" /></a>
 </p>
