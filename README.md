@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Python(Django)**
+- 🌱 I’m currently learning **PHP(Laravel)**
 
 - 👯 I’m looking to collaborate on **Web-Based Projects**
 
