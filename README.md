@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **PHP(Laravel)**
+- 🌱 I’m currently learning **Node js(Express)**
 
-- 👯 I’m looking to collaborate on **Web-Based Projects**
+- 👯 I’m looking to collaborate on **Tech Projects**
 
 - 🤝 I’m looking for help with **Laravel,React**
 
