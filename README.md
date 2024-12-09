@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React,Laravel**
 
-- 📫 How to reach me **jamesnziokamutua1@gmail.com**
+- 📫 How to reach me **jamesnziokamutua1@gmail.com or mutuajamesnzioka@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
