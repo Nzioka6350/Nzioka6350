@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ANY TECH BASED PROJECT**
 
-- 🤝 I’m looking for help with **STARTUP**
+- 🤝 I’m looking for help with **START UP**
 
 - 💬 Ask me about **ANY TECH RELATED TOPIC**
 
