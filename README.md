@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzioka6350&label=Profile%20views&color=0e75b6&style=flat" alt="nzioka6350" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzioka6350" alt="nzioka6350" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_itsnzioka" target="blank"><img src="https://img.shields.io/twitter/follow/_itsnzioka?logo=twitter&style=for-the-badge" alt="_itsnzioka" /></a> </p>
