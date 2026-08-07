@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Nzioka Mutua</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E75B6&center=true&vCenter=true&width=500&lines=FullStack+Developer;Data+Science+Enthusiast;Building+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E75B6&center=true&vCenter=true&width=500&lines=FullStack+Developer;Network+Engineer;Data+Science+Enthusiast;Building+Real-World+Solutions" />
 </h3>
 
 <p align="center">
